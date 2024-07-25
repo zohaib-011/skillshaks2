@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//skillshaks/static/css/main.618fa96a.css",
+    "main.js": "//skillshaks/static/js/main.fecf2827.js",
+    "static/js/453.ed3810f9.chunk.js": "//skillshaks/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "//skillshaks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//skillshaks/index.html",
+    "main.618fa96a.css.map": "//skillshaks/static/css/main.618fa96a.css.map",
+    "main.fecf2827.js.map": "//skillshaks/static/js/main.fecf2827.js.map",
+    "453.ed3810f9.chunk.js.map": "//skillshaks/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618fa96a.css",
+    "static/js/main.fecf2827.js"
+  ]
+}
